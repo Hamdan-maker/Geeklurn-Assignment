@@ -1,0 +1,6 @@
+•	The python file should be submitted in IPYNB format
+•	A PPT presentation outlining your findings must be included in the submission
+•	To submit the files, create a folder name with your email ID and use underscore for the project subject you have chosen i.e. shashank@gmail.com_python
+•	For example: you can refer the project submission demo
+•	Finally upload the folder containing your files to the designated Batch folder on G-Drive
+•	For submission kindly watch the attached recording 
